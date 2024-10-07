@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(DESCRIBE /leaderboard, None, None)[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid key: leaderboard[0m
+[0m[[0m[31merror[0m] [0m[0mDESCRIBE /leaderboard[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
